@@ -1,0 +1,52 @@
+/* static/style.css */
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+form {
+    text-align: center;
+    margin-bottom: 400px;
+}
+
+label {
+    margin-right: 10px;
+    font-size: xx-large;
+    color: rgb(180, 39, 161);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+input[type="text"] {
+    padding: 5px 100px;
+    border-color: rgb(94, 198, 212);
+    border-style:ridge;
+    margin: 10px;
+    margin-right: 12px;
+    border-radius: 7px;
+}
+
+button {
+    padding: 8px 16px;
+    background-color: #cc9bcc;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: large
+}
+
+.custom-heading1 {
+    color: rgb(205, 146, 205); /* Change the heading color to your preference */
+    text-align: center; /* Center the heading text */
+    font-size: 100px;
+    margin-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
